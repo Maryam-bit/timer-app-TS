@@ -1,46 +1,48 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h1 align="center">TIMER APP</h1>
+</div>
 
-## Available Scripts
 
-In the project directory, you can run:
+<!-- ABOUT THE PROJECT -->
+## ABOUT THE PROJECT
+This Project is Made for practicing purpose.
 
-### `yarn start`
+![timer](https://user-images.githubusercontent.com/56764144/129858311-8542f0ee-ceac-4471-90a9-973cf71fed39.PNG)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## BUILD WITH
 
-### `yarn test`
+Following are the technologies that I used in this project(shoe store)
+* React JS (Javascript framework)
+* Testing with Jest and enzyme
+* CSS
+* Bootstrap
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## INSTALLATION
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. one the repo
+   ```sh
+   git clone https://github.com/Maryam-bit/pwa-expense-tracker.git
+   ```
+2. stall NPM packages
+   ```sh
+   npm install
+   ```
+3. Start Project
+    ```sh
+    npm start
+   ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## CONTACT
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Email - noormaryam530@gmail.com
+* Facebook - https://www.facebook.com/profile.php?id=100037932721862
+* Porfolio - http://dev_maryam2004.surge.sh/
