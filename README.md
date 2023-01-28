@@ -21,6 +21,7 @@ Following are the technologies that I used in this project(shoe store)
 * Testing with Jest and enzyme
 * CSS
 * Bootstrap
+* Typescript
 
 
 
